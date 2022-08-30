@@ -1,3 +1,8 @@
+---
+layout: post
+title: Dog Breed Image Classification!
+---
+
 <font size="6"> **Dog Breed Classification**
 
 The World Canine Organization currently recognizes 339 breeds of dogs. One might think that identifying dog breeds is a simple task, but some breeds look so similar that can become difficult for humans to classify.
