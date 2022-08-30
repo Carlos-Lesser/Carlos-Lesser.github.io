@@ -1,7 +1,8 @@
 ---
-layout: post
-title: Hello Everyone!
+layout: page
+title: Dog Image Classification App!
 ---
+https://carlos-lesser-dog-app-dog-app-38wto4.streamlitapp.com/
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
