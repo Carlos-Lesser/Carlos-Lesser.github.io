@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notebook
 title: Dog Breed Image Classification!
 ---
 
