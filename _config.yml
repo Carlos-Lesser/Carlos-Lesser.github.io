@@ -78,6 +78,9 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-jupyter-notebook
 
+plugins:
+  - jekyll-jupyter-notebook
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
