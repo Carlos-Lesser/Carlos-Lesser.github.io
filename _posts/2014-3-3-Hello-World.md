@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Dog Image Classification App!
 ---
 https://carlos-lesser-dog-app-dog-app-38wto4.streamlitapp.com/
