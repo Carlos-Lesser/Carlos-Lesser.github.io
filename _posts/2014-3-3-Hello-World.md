@@ -2,7 +2,7 @@
 layout: post
 title: Dog Image Classification App!
 ---
-I created a Dog Breed Image classifcation App using Transferlearning with Accuracy of 88%.
+I created a Dog Breed Image classifcation App using Transferlearning with Accuracy of 88%.![_config.yml]({{ site.baseurl }}/images/dog1.PNG)
 
 I used Resnetv30 for my model, please visit [Dog Breed Image Classification Notebook](https://github.com/barryclark/jekyll-now) on GitHub.
 
