@@ -2,10 +2,7 @@
 layout: post
 title: Market Bakset Analysis
 ---
-Market Basket Analysis (MBA) is the process to identify customers buying habits by finding associations between the different items that customers place in their “shopping baskets”. This analysis is helpful for  retailers or E-Commerce to develop marketing strategies by gaining insight into which items are frequently bought together by customers. 
-![_config.yml]({{ site.baseurl }}images/header.jpg)
-![_config.yml]({{ site.baseurl }}https://github.com/Carlos-Lesser/Carlos-Lesser.github.io/blob/70715c4a3d7dd2ca799ea8196fab3d4068824b38/images/header.jpg)
-
+Market Basket Analysis (MBA) is the process to identify customers buying habits by finding associations between the different items that customers place in their “shopping baskets”. This analysis is helpful for  retailers or E-Commerce to develop marketing strategies by gaining insight into which items are frequently bought together by customers. ![config.yml](/images/header.jpg)
 
 
 ## Table of Content
