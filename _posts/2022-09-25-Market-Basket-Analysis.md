@@ -62,7 +62,7 @@ df_basket.head(10)
 
 ```
 
-
+![png](/images/Images_MBA/chart1.JPG)
 
 
 <div>
