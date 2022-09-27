@@ -657,7 +657,7 @@ plt.title("Average of Transactions per Year by Month", fontsize=14);
 
 
     
-![png](images/Images_MBA/output_20_0.png)
+![png](/images/Images_MBA/output_20_0.png)
     
 
 
@@ -673,7 +673,7 @@ ax.set(xlabel='Year',title="Number of Transactions per Year");
 
 
     
-![png](images/Images_MBA/output_22_0.png)
+![png](/images/Images_MBA/output_22_0.png)
     
 
 
@@ -690,7 +690,7 @@ ax.set(xlabel='Day',title="Transactions per day of the week");
 
 
     
-![png](images/Images_MBA//output_24_0.png)
+![png](/images/Images_MBA//output_24_0.png)
     
 
 
@@ -707,7 +707,7 @@ ax.set(xlabel='Products',title="Top 10 products");
 
 
     
-![png](images/Images_MBA//output_26_0.png)
+![png](/images/Images_MBA//output_26_0.png)
     
 
 
@@ -724,7 +724,7 @@ ax.set(xlabel='Products',title="Worst 10 products");
 
 
     
-![png](images/Images_MBA/output_28_0.png)
+![png](/images/Images_MBA/output_28_0.png)
     
 
 
@@ -741,7 +741,7 @@ ax.set(xlabel='Customer ID',title="Top 20 Customers");
 
 
     
-![png](images/Images_MBA/output_30_0.png)
+![png](/images/Images_MBA/output_30_0.png)
     
 
 
