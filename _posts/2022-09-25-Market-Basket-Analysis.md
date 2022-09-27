@@ -79,7 +79,7 @@ df_basket.head(10)
     .dataframe thead th {
         text-align: right;
     }
-<table>
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -316,7 +316,7 @@ df_time['Week']=df_time.index.week
     .dataframe thead th {
         text-align: right;
     }
-<table>
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
