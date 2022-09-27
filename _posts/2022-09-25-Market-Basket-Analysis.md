@@ -209,7 +209,7 @@ df_basket.info()
 
 
 ```python
-#Doble Checking for Null Values 
+#Double Checking for Null Values 
 df_basket.isnull().sum()
 ```
 
@@ -297,9 +297,7 @@ df_time
 
 
 ```
-
-    C:\Users\Acer\AppData\Local\Temp/ipykernel_9220/2702276649.py:9: FutureWarning: weekofyear and week have been deprecated, please use DatetimeIndex.isocalendar().week instead, which returns a Series.  To exactly reproduce the behavior of week and weekofyear and return an Index, you may call pd.Int64Index(idx.isocalendar().week)
-      df_time['Week']=df_time.index.week
+df_time['Week']=df_time.index.week
     
 
 
@@ -318,7 +316,7 @@ df_time
     .dataframe thead th {
         text-align: right;
     }
-</style>
+<Table>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
