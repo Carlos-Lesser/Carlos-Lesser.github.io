@@ -4,24 +4,16 @@ title: Market Bakset Analysis
 ---
 Market Basket Analysis (MBA) is the process to identify customers buying habits by finding associations between the different items that customers place in their “shopping baskets”. This analysis is helpful for  retailers or E-Commerce to develop marketing strategies by gaining insight into which items are frequently bought together by customers. ![config.yml](/images/header.jpg)
 
+## Table of Content
+
 * TOC
 {:toc}
 
 
-## Table of Content
-
-- [Introduction](##Introduction)
-- [The Dataset](#The-Dataset)
-- [EDA](#EDA) 
-- [Apriori](#Apriori-Algorithm)
-- [Determining Rules](#Determining-Rules)
-- [Interpreting Metrics](#Interpreting-Metrics)
-- [Findings and Conclusions](#Findings-and-Conclusions)
-
 
 ## Introduction
 
-Market Basket Analysis (MBA) is the process to identify customers buying habits by finding associations between the different items that customers place in their “shopping baskets”. Thia analysis is helpful for  retailers or E-Commerce to develop marketing strategies by gaining insight into which items are frequently bought together by customers.
+Market Basket Analysis (MBA) is a data mining technique that is use to identify customers buying habits by finding associations between the different items that customers place in their “shopping baskets”. When used appropriately, MBA can be an effective tool for business in understanding consumer behavior better and influence it. 
 
 For example, if customers are buying cookies, how probably are they to also buy milk in the same transaction. This information may lead to increase sales by helping the business by doing **product placement, shelf arrangements, up-sell,cross-sell, and bundling opportunities.**
 
@@ -36,7 +28,7 @@ In this project I would be exploring the Apriori Algorithm.
 
 ## The Dataset
 
-The groceries dataset was published by Heeral Dedhia on 2020 and can be download in [Kraggle](https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset?resource=download).The dataset has 38765 rows of the purchase orders of people from the grocery stores. These orders can be analysed and association rules can be generated using Market Basket Analysis by algorithms like Apriori Algorithm.
+The groceries dataset was published in 2020 and can be download in [Kraggle](https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset?resource=download).The dataset has 38765 rows of the purchase orders of people from the grocery stores. These orders can be analysed and association rules can be generated using Market Basket Analysis by algorithms like Apriori Algorithm.
 
 
 ## EDA
