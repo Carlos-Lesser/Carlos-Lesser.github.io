@@ -6,7 +6,7 @@ Market Basket Analysis (MBA) is the process to identify customers buying habits 
 ![_config.yml]({{ site.baseurl }}images/header.jpg)
 
 
-## :ledger: Index
+## Table of Content
 
 - [Introduction](##Introduction)
 - [The Dataset](#The-Dataset)
