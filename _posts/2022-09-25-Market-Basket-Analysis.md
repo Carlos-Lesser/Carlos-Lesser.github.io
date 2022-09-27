@@ -79,7 +79,7 @@ df_basket.head(10)
     .dataframe thead th {
         text-align: right;
     }
-</style>
+<table>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
