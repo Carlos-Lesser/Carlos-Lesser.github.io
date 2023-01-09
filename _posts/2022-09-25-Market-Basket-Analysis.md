@@ -506,4 +506,6 @@ From the above we can observe the following:
 - We can place consequent items if possible next to the antecedent items to drive sales. 
 - For items that can be place next to each other , like detergent and whole milk we can make sure that the layout of the stores are close to each others. . 
 
-Using Apriori algorithm is a very useful technique to find associations between items. In addition, They are easy to implement and explain. However for more complex insights, such as the ones been used by Amazon, Google, Netflix we can use recommendation systems. 
+Using Apriori algorithm is a very useful technique to find associations between items. In addition, They are easy to implement and explain. However for more complex insights, such as the ones been used by Amazon, Google, Netflix we can use recommendation systems.
+
+<iframe seamless frameborder="0" src=https://public.tableau.com/views/VGContest_SuperSampleSuperstore_RyanSleeper/SuperDescriptive?:embed=y&:embed_code_version=3&:loadOrderID=1&:display_count=y&:origin=viz_share_link
