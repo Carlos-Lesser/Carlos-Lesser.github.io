@@ -508,4 +508,4 @@ From the above we can observe the following:
 
 Using Apriori algorithm is a very useful technique to find associations between items. In addition, They are easy to implement and explain. However for more complex insights, such as the ones been used by Amazon, Google, Netflix we can use recommendation systems.
 
-<iframe seamless frameborder="0" src=https://public.tableau.com/views/VGContest_SuperSampleSuperstore_RyanSleeper/SuperDescriptive?:embed=y&:embed_code_version=3&:loadOrderID=1&:display_count=y&:origin=viz_share_link
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/VGContest_SuperSampleSuperstore_RyanSleeper/SuperDescriptive?:embed=y&:embed_code_version=3&:loadOrderID=1&:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>  
