@@ -12,3 +12,5 @@ I was able to reach an accuracy score of 88% and deployed an app. In this post y
 <iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
 
 <iframe src="https://public.tableau.com/views/VancouverCrime_16760097568520/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
+
+<iframe src="https://public.tableau.com/views/VancouverCrime_16760097568520/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '750' height = '1250'></iframe>
